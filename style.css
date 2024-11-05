@@ -6,3 +6,16 @@ body{
     margin-bottom: 100px;
     
 }
+.chamada{
+    background: gray;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+header{
+    color: white;
+    font-size: 40px;
+    border-bottom: solid 3px black;
+    padding: 20px;
+}
